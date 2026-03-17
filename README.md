@@ -4,11 +4,22 @@
 
 Hey sinon-wish!
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+The Introduction to GitHub exercise is complete! 🎉
 
-Remember, it's self-paced so feel free to take a break! ☕️
+Here's a recap of what was covered:
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/sinon-wish/skills-introduction-to-github/issues/2)
+- Creating a **branch** to safely work on changes
+- Making a **commit** to save changes to a file
+- Opening a **pull request** to propose changes
+- **Merging** a pull request into the main branch
+
+### What's Next?
+
+- 🎓 [Take another GitHub Skills exercise](https://learn.github.com/skills)
+- 📖 [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started)
+- 🌍 [Find projects to contribute to on GitHub Explore](https://github.com/explore)
+- 🎒 Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack)
+- 💬 [Share feedback in the discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github)
 
 ---
 
